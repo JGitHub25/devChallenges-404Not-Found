@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{jgithub25.github.io/devChallenges-404Not-Found/index.html}">
+    <a href="https://jgithub25.github.io/devChallenges-404Not-Found/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{jgithub25.github.io/devChallenges-404Not-Found/index.html}">
+    <a href="https://jgithub25.github.io/devChallenges-404Not-Found/">
       Solution
     </a>
     <span> | </span>
@@ -33,10 +33,9 @@ This application/site was created as a submission to a [DevChallenges](https://d
 <!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
 
 - [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
-- [Node.js](https://nodejs.org/)
 - [Marked - a markdown parser](https://github.com/chjj/marked)
 
 ## Contact
 
-- GitHub [@your-username](https://{github.com/JGitHub25})
-- Twitter [@your-twitter](https://{twitter.com/JRock_25})
+- GitHub [@yJGitHub25](https://github.com/JGitHub25)
+- Twitter [@JRock_25](https://twitter.com/JRock_25)
