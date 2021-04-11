@@ -37,5 +37,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- GitHub [@yJGitHub25](https://github.com/JGitHub25)
+- GitHub [@JGitHub25](https://github.com/JGitHub25)
 - Twitter [@JRock_25](https://twitter.com/JRock_25)
